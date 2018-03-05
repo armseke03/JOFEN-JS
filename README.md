@@ -1,4 +1,4 @@
-# sayank-JS
+# JOFEN-JS
 -Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
 
 -LineAlphat -> https://github.com/bheghenkz/sayank-JS
